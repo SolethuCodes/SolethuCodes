@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lungani Xulu (SolethuCodes)
 
-**Aspiring Fullstack Developer (MERN)**  
+**Aspiring Front-End Developer (REACT)**  
 Walkerville, Gauteng | lunganisolethu@gmail.com | 074 268 6212  
 [GitHub](https://github.com/SolethuCodes) | [LinkedIn](https://linkedin.com/in/lungani-xulu-8254a1232)
 
@@ -8,17 +8,17 @@ Walkerville, Gauteng | lunganisolethu@gmail.com | 074 268 6212
 
 ## 🚀 About Me
 
-I am a self-driven and hardworking aspiring software developer with a strong ambition to leverage technology to solve complex problems and drive business success. I enjoy building innovative solutions, contributing to impactful projects, and learning new technologies.  
+I am a self-driven aspiring Front-End Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy creating clean interfaces, interactive experiences, and learning new front-end technologies to craft polished UIs. 
 
-- 🌱 Learning: **Tailwind CSS, TypeScript, Firebase, full MERN stack projects**
-- 👯 Looking to collaborate on: **Web and mobile applications, React and Node.js projects**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, PHP, SQL**
+- 🌱 Learning: **TypeScript, Redux, Framer Motion**
+- 👯 Looking to collaborate on: **React web applications and UI-focused projects**
+- 💬 Ask me about: **React, JavaScript, Tailwind CSS, Responsive Design, UI/UX**
 
 ---
 
 ## 🛠️ Skills
 
-**Programming Languages:** JavaScript, Node.js, React, Express.js, Python, C#, PHP, HTML, CSS, SQL, MongoDB  
+**Programming Languages:** JavaScript, React, TypeScript (learning)  
 **Frameworks & Tools:** React Native, Tailwind CSS, Firebase, Git, Postman  
 **Soft Skills:** Public Speaking, Team Collaboration, Project Management  
 **Languages Spoken:** English, Zulu  
