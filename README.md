@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lungani Xulu (SolethuCodes)
 
-**Aspiring Front-End Developer (REACT)**  
+**Aspiring Full-Stack Developer (React | .NET | MySQL)**  
 Walkerville, Gauteng | lunganisolethu@gmail.com | 074 268 6212  
 [GitHub](https://github.com/SolethuCodes) | [LinkedIn](https://linkedin.com/in/lungani-xulu-8254a1232)
 
@@ -8,20 +8,24 @@ Walkerville, Gauteng | lunganisolethu@gmail.com | 074 268 6212
 
 ## 🚀 About Me
 
-I am a self-driven aspiring Front-End Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy creating clean interfaces, interactive experiences, and learning new front-end technologies to craft polished UIs. 
+I am a self-driven aspiring Full-Stack Developer passionate about building scalable, modern, and user-friendly web applications. I enjoy working on both front-end and back-end systems, creating seamless user experiences backed by efficient and secure APIs.
 
-- 🌱 Learning: **TypeScript, Redux, Framer Motion**
-- 👯 Looking to collaborate on: **React web applications and UI-focused projects**
-- 💬 Ask me about: **React, JavaScript, Tailwind CSS, Responsive Design, UI/UX**
+I focus on building real-world applications using a full-stack approach, from UI design to database architecture. 
+
+- 🌱 Learning: .NET (ASP.NET Core), Entity Framework (ORM), System Design
+- 👯 Looking to collaborate on: Full-stack web applications
+- 💬 Ask me about: React, JavaScript, .NET APIs, RESTful services, MySQL, UI/UX
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Programming Languages:** JavaScript, React, TypeScript (learning)  
-**Frameworks & Tools:** React Native, Tailwind CSS, Firebase, Git, Postman  
-**Soft Skills:** Public Speaking, Team Collaboration, Project Management  
-**Languages Spoken:** English, Zulu  
+Frontend: React, TypeScript, Tailwind CSS, React Native
+Backend: .NET (ASP.NET Core), C#
+Database: MySQL, Entity Framework (ORM)
+Tools & Platforms: Git, Postman, Firebase
+Soft Skills: Public Speaking, Team Collaboration, Project Management
+Languages Spoken: English, Zulu 
 
 ---
 
@@ -73,12 +77,6 @@ I am a self-driven aspiring Front-End Developer passionate about building modern
 **Solethu Tech Website** – *Front-End Developer | HTML, CSS, JavaScript*  
 - Developed a responsive one-page website to showcase the company’s brand and services.  
 - Implemented smooth scrolling, navigation, and animations for better UX.  
-
----
-
-## 📊 GitHub Stats
-
-![SolethuCodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolethuCodes&show_icons=true&theme=radical)
 
 ---
 
